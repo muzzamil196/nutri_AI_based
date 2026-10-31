@@ -1,0 +1,794 @@
+[
+  {
+    "id": "bf-1",
+    "cat": "breakfast",
+    "name": "Steamed Idli with Vegetable Sambar",
+    "img": "assets/images/idli_sambar.jpg"
+  },
+  {
+    "id": "bf-2",
+    "cat": "breakfast",
+    "name": "Fluffy Vegetable Poha",
+    "img": "assets/images/poha_breakfast.jpg"
+  },
+  {
+    "id": "bf-3",
+    "cat": "breakfast",
+    "name": "Andhra Pesarattu with Allam Pachadi",
+    "img": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-4",
+    "cat": "breakfast",
+    "name": "Spiced Vegetable Upma with Roasted Cashews",
+    "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-5",
+    "cat": "breakfast",
+    "name": "Ragi Dosa with Coconut Mint Chutney",
+    "img": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-6",
+    "cat": "breakfast",
+    "name": "High-Protein Moong Dal Cheela with Mint Dip",
+    "img": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-7",
+    "cat": "breakfast",
+    "name": "Greek Yogurt Protein Berry Bowl",
+    "img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-8",
+    "cat": "breakfast",
+    "name": "Masala Oats with Rainbow Veggies & Flaxseed",
+    "img": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-9",
+    "cat": "breakfast",
+    "name": "Traditional South Indian Ven Pongal",
+    "img": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-10",
+    "cat": "breakfast",
+    "name": "Soft Appam with Light Vegetable Stew",
+    "img": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-11",
+    "cat": "breakfast",
+    "name": "Vegetable Uttapam with Tomato Onion Topping",
+    "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-12",
+    "cat": "breakfast",
+    "name": "Korean Vegetable Pajeon (Scallion Pancake)",
+    "img": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-13",
+    "cat": "breakfast",
+    "name": "Korean Tofu & Kimchi Scramble Rice Bowl",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-14",
+    "cat": "breakfast",
+    "name": "Mediterranean Shakshuka with Poached Eggs",
+    "img": "https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-15",
+    "cat": "breakfast",
+    "name": "Mexican Breakfast Black Bean & Avocado Bowl",
+    "img": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-16",
+    "cat": "breakfast",
+    "name": "Japanese Silken Tofu & Wakame Miso Bowl",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-17",
+    "cat": "breakfast",
+    "name": "Whole-Grain Avocado Toast with Seeds",
+    "img": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-18",
+    "cat": "breakfast",
+    "name": "Whole-Wheat Vegetable Sandwich",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-19",
+    "cat": "breakfast",
+    "name": "Vegetable Omelette with Herb Toast",
+    "img": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "bf-20",
+    "cat": "breakfast",
+    "name": "Crispy Plain Dosa with Sambar & Chutney",
+    "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-21",
+    "cat": "breakfast",
+    "name": "Overnight Chia Oats with Berries & Almond Milk",
+    "img": "https://images.unsplash.com/photo-1506084868230-bb9d95c24759?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bf-22",
+    "cat": "breakfast",
+    "name": "Korean Vegetable Kimbap Breakfast Roll",
+    "img": "https://images.unsplash.com/photo-1553152531-b98a2fc8d3bf?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-1",
+    "cat": "morning_snacks",
+    "name": "Sprouted Moong & Pomegranate Chaat",
+    "img": "assets/images/sprouts_snack.jpg"
+  },
+  {
+    "id": "ms-2",
+    "cat": "morning_snacks",
+    "name": "Roasted Makhana with Turmeric & Himalayan Salt",
+    "img": "assets/images/makhana_snack.jpg"
+  },
+  {
+    "id": "ms-3",
+    "cat": "morning_snacks",
+    "name": "Steamed Gujarati Khaman Dhokla",
+    "img": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-4",
+    "cat": "morning_snacks",
+    "name": "South Indian Chickpea Sundal with Coconut",
+    "img": "https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-5",
+    "cat": "morning_snacks",
+    "name": "Roasted Black Chana with Curry Spices",
+    "img": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-6",
+    "cat": "morning_snacks",
+    "name": "Korean Steamed Vegetable Mandu (Dumplings)",
+    "img": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-7",
+    "cat": "morning_snacks",
+    "name": "Korean Roasted Seaweed (Gim) with Brown Rice Bites",
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-8",
+    "cat": "morning_snacks",
+    "name": "Korean Crisp Cucumber Salad (Oi Muchim)",
+    "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-9",
+    "cat": "morning_snacks",
+    "name": "Mediterranean Hummus with Carrot Crudités",
+    "img": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-10",
+    "cat": "morning_snacks",
+    "name": "Mexican Guacamole with Crisp Veggie Sticks",
+    "img": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-11",
+    "cat": "morning_snacks",
+    "name": "Japanese Steamed Edamame with Sea Salt",
+    "img": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-12",
+    "cat": "morning_snacks",
+    "name": "Steamed Sweet Corn Chaat with Chaat Masala",
+    "img": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-13",
+    "cat": "morning_snacks",
+    "name": "Seasonal Tropical Fruit Bowl with Mint & Chia",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-14",
+    "cat": "morning_snacks",
+    "name": "Crunchy Walnuts, Almonds & Pumpkin Seeds Mix",
+    "img": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-15",
+    "cat": "morning_snacks",
+    "name": "Roasted Spiced Sweet Potato Wedges",
+    "img": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-16",
+    "cat": "morning_snacks",
+    "name": "Cucumber and Carrot Sticks with Herb Dip",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ms-17",
+    "cat": "morning_snacks",
+    "name": "Unsweetened Yogurt with Fresh Fruit & Flaxseed",
+    "img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ms-18",
+    "cat": "morning_snacks",
+    "name": "Clear Garden Vegetable Soup with Herbs",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ms-19",
+    "cat": "morning_snacks",
+    "name": "Boiled Farm Egg with Cracked Black Pepper",
+    "img": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-20",
+    "cat": "morning_snacks",
+    "name": "Roasted Pumpkin & Sunflower Seeds Crunch",
+    "img": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ms-21",
+    "cat": "morning_snacks",
+    "name": "Steamed Mini Idli Bites with Podi",
+    "img": "assets/images/idli_sample.jpg"
+  },
+  {
+    "id": "ms-22",
+    "cat": "morning_snacks",
+    "name": "Fresh Pomegranate & Moong Salad with Lemon",
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-1",
+    "cat": "lunch",
+    "name": "Andhra Palakura Pappu with Brown Rice",
+    "img": "assets/images/dal_rice_meal.jpg"
+  },
+  {
+    "id": "ln-2",
+    "cat": "lunch",
+    "name": "Andhra Tomato Pappu with Red Rice",
+    "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-3",
+    "cat": "lunch",
+    "name": "South Indian Vegetable Sambar Rice with Curd",
+    "img": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-4",
+    "cat": "lunch",
+    "name": "Punjabi Dal Tadka with Jeera Brown Rice",
+    "img": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-5",
+    "cat": "lunch",
+    "name": "Homestyle Palak Paneer with Whole Wheat Rotis",
+    "img": "assets/images/paneer_meal.jpg"
+  },
+  {
+    "id": "ln-6",
+    "cat": "lunch",
+    "name": "Moong Dal & Vegetable Khichdi with Ghee",
+    "img": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-7",
+    "cat": "lunch",
+    "name": "Vegetable Dum Biryani with Spiced Salan",
+    "img": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-8",
+    "cat": "lunch",
+    "name": "Andhra Ragi Sangati with Pappu",
+    "img": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-9",
+    "cat": "lunch",
+    "name": "Korean Vegetable Bibimbap with Gochujang",
+    "img": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-10",
+    "cat": "lunch",
+    "name": "Korean Vegetable Kimbap with Pickled Radish",
+    "img": "https://images.unsplash.com/photo-1553152531-b98a2fc8d3bf?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-11",
+    "cat": "lunch",
+    "name": "Korean Vegetable Japchae (Glass Noodles)",
+    "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-12",
+    "cat": "lunch",
+    "name": "Korean Doenjang Jjigae with Tofu & Rice",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "ln-13",
+    "cat": "lunch",
+    "name": "Italian Whole-Wheat Penne Primavera",
+    "img": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-14",
+    "cat": "lunch",
+    "name": "Mediterranean Chickpea Falafel & Hummus Bowl",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-15",
+    "cat": "lunch",
+    "name": "Mexican Chipotle Black Bean & Quinoa Bowl",
+    "img": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-16",
+    "cat": "lunch",
+    "name": "Tofu and Vegetable Teriyaki Rice Bowl",
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "ln-17",
+    "cat": "lunch",
+    "name": "Chinese Rainbow Vegetable & Tofu Stir-Fry",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "ln-18",
+    "cat": "lunch",
+    "name": "Thai Fragrant Green Vegetable Curry with Rice",
+    "img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-19",
+    "cat": "lunch",
+    "name": "Andhra Curd Rice (Daddojanam) with Pomegranate",
+    "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "ln-20",
+    "cat": "lunch",
+    "name": "Baked Herb Salmon with Steamed Greens & Quinoa",
+    "img": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-21",
+    "cat": "lunch",
+    "name": "Light Homemade Vegetable Pulao with Raita",
+    "img": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ln-22",
+    "cat": "lunch",
+    "name": "Whole-Wheat Chapati with Yellow Dal Tadka",
+    "img": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "es-1",
+    "cat": "evening_snacks",
+    "name": "Roasted Spiced Sweet Potato Wedges",
+    "img": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-2",
+    "cat": "evening_snacks",
+    "name": "Baked Beetroot & Carrot Cutlets with Mint Chutney",
+    "img": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-3",
+    "cat": "evening_snacks",
+    "name": "Andhra Pesarattu Vegetable Roll",
+    "img": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "es-4",
+    "cat": "evening_snacks",
+    "name": "Boiled Peanut Sundal with Fresh Ginger & Coconut",
+    "img": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-5",
+    "cat": "evening_snacks",
+    "name": "Roasted Lotus Seeds (Makhana) with Herbs",
+    "img": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-6",
+    "cat": "evening_snacks",
+    "name": "Korean Vegetable Pancakes (Pajeon)",
+    "img": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-7",
+    "cat": "evening_snacks",
+    "name": "Korean Crispy Tofu Bites with Gochujang Glaze",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=603&q=80"
+  },
+  {
+    "id": "es-8",
+    "cat": "evening_snacks",
+    "name": "Korean Mini Vegetable Kimbap (Mayak Kimbap)",
+    "img": "https://images.unsplash.com/photo-1553152531-b98a2fc8d3bf?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "es-9",
+    "cat": "evening_snacks",
+    "name": "Italian Bruschetta with Heirloom Tomatoes & Basil",
+    "img": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "es-10",
+    "cat": "evening_snacks",
+    "name": "Homemade Hummus with Crisp Vegetables",
+    "img": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-11",
+    "cat": "evening_snacks",
+    "name": "Steamed Vegetable Mandu Dumplings",
+    "img": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-12",
+    "cat": "evening_snacks",
+    "name": "Steamed Corn Chaat with Chaat Masala",
+    "img": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-13",
+    "cat": "evening_snacks",
+    "name": "Steamed Gujarati Khaman Dhokla with Chutney",
+    "img": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "es-14",
+    "cat": "evening_snacks",
+    "name": "Mumbai Street-Style Fruit Chaat with Cumin",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "es-15",
+    "cat": "evening_snacks",
+    "name": "Baked Chickpea Crunchy Snacks with Paprika",
+    "img": "https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-16",
+    "cat": "evening_snacks",
+    "name": "Whole-Wheat Vegetable Toast with Smashed Peas",
+    "img": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "es-17",
+    "cat": "evening_snacks",
+    "name": "Yogurt and Fruit Bowl with Chia & Berries",
+    "img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "es-18",
+    "cat": "evening_snacks",
+    "name": "Comforting Tomato Vegetable Soup",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=603&q=80"
+  },
+  {
+    "id": "es-19",
+    "cat": "evening_snacks",
+    "name": "Sprout Chaat with Lemon & Herbs",
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=603&q=80"
+  },
+  {
+    "id": "es-20",
+    "cat": "evening_snacks",
+    "name": "Roasted Black Chana Snack with Spices",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-21",
+    "cat": "evening_snacks",
+    "name": "Light Evening Vegetable Poha",
+    "img": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "es-22",
+    "cat": "evening_snacks",
+    "name": "Muhammara (Roasted Red Pepper & Walnut Dip)",
+    "img": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "dn-1",
+    "cat": "dinner",
+    "name": "Andhra Menthi Kura Pappu with Brown Rice",
+    "img": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-2",
+    "cat": "dinner",
+    "name": "Yellow Moong Dal Tadka with Soft Phulkas",
+    "img": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-3",
+    "cat": "dinner",
+    "name": "Spiced Chickpea (Chole) Stew with Chapatis",
+    "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "dn-4",
+    "cat": "dinner",
+    "name": "Vegetable Dal Khichdi with Cumin Ghee",
+    "img": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=603&q=80"
+  },
+  {
+    "id": "dn-5",
+    "cat": "dinner",
+    "name": "Palak Paneer with Multigrain Rotis",
+    "img": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "dn-6",
+    "cat": "dinner",
+    "name": "Vegetable Soup with Whole-Grain Toast",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=604&q=80"
+  },
+  {
+    "id": "dn-7",
+    "cat": "dinner",
+    "name": "South Indian Vegetable Kurma with Soft Chapati",
+    "img": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "dn-8",
+    "cat": "dinner",
+    "name": "Vegetable Pesarattu with Ginger Pachadi",
+    "img": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=603&q=80"
+  },
+  {
+    "id": "dn-9",
+    "cat": "dinner",
+    "name": "Korean Kimchi Fried Rice with Pan-Seared Tofu",
+    "img": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-10",
+    "cat": "dinner",
+    "name": "Korean Vegetable Doenjang Guk Soup with Rice",
+    "img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=605&q=80"
+  },
+  {
+    "id": "dn-11",
+    "cat": "dinner",
+    "name": "Japchae Glass Noodles with Vegetables & Tofu",
+    "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-12",
+    "cat": "dinner",
+    "name": "Korean Tofu Rice Bowl (Dubu Jorim)",
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=604&q=80"
+  },
+  {
+    "id": "dn-13",
+    "cat": "dinner",
+    "name": "Whole-Wheat Vegetable Pasta with Basil",
+    "img": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-14",
+    "cat": "dinner",
+    "name": "Mediterranean Warm Grain & Veggie Bowl",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=603&q=80"
+  },
+  {
+    "id": "dn-15",
+    "cat": "dinner",
+    "name": "Mexican Black Bean & Sweet Corn Bowl",
+    "img": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "dn-16",
+    "cat": "dinner",
+    "name": "Tofu and Vegetable Sesame Stir-Fry",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=604&q=80"
+  },
+  {
+    "id": "dn-17",
+    "cat": "dinner",
+    "name": "Japanese Soba Noodle Soup with Shiitake & Greens",
+    "img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "dn-18",
+    "cat": "dinner",
+    "name": "Mediterranean Chickpea Salad Bowl with Tahini",
+    "img": "https://images.unsplash.com/photo-1546548970-71785318a17b?auto=format&fit=crop&w=602&q=80"
+  },
+  {
+    "id": "dn-19",
+    "cat": "dinner",
+    "name": "Thai Coconut Lemongrass Soup (Tom Kha Veggie)",
+    "img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-20",
+    "cat": "dinner",
+    "name": "Baked Fish with Steamed Greens & Lemon",
+    "img": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-21",
+    "cat": "dinner",
+    "name": "Vegetable Millet Bowl with Roasted Seeds",
+    "img": "https://images.unsplash.com/photo-1506084868230-bb9d95c24759?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "dn-22",
+    "cat": "dinner",
+    "name": "Light Homemade Vegetable Pulao with Mint Raita",
+    "img": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "hd-1",
+    "cat": "healthy_drinks",
+    "name": "Andhra Masala Buttermilk (Majjiga / Chaas)",
+    "img": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-2",
+    "cat": "healthy_drinks",
+    "name": "Warm Ragi Malt (Finger Millet Beverage)",
+    "img": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-3",
+    "cat": "healthy_drinks",
+    "name": "Spiced Golden Turmeric Milk",
+    "img": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-4",
+    "cat": "healthy_drinks",
+    "name": "Pure Tender Coconut Water with Chia & Lime",
+    "img": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-5",
+    "cat": "healthy_drinks",
+    "name": "Korean Iced Roasted Barley Tea (Boricha)",
+    "img": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-6",
+    "cat": "healthy_drinks",
+    "name": "Homemade Fresh Ginger Herbal Tea",
+    "img": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-7",
+    "cat": "healthy_drinks",
+    "name": "Unsweetened Lemon Water with Chia & Mint",
+    "img": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-8",
+    "cat": "healthy_drinks",
+    "name": "Antioxidant Green Tea (Steeped Whole Leaf)",
+    "img": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-9",
+    "cat": "healthy_drinks",
+    "name": "Homemade Green Vegetable Detox Smoothie",
+    "img": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-10",
+    "cat": "healthy_drinks",
+    "name": "Thai Butterfly Pea Lemongrass Herbal Tea",
+    "img": "https://images.unsplash.com/photo-1558160074-4d7d8bdf4256?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-11",
+    "cat": "healthy_drinks",
+    "name": "Fresh Watermelon Juice without Added Sugar",
+    "img": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-12",
+    "cat": "healthy_drinks",
+    "name": "Fresh Orange Juice (150ml Serving)",
+    "img": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-13",
+    "cat": "healthy_drinks",
+    "name": "Traditional Unsweetened Lassi with Roasted Cumin",
+    "img": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-14",
+    "cat": "healthy_drinks",
+    "name": "Unsweetened Cold-Pressed Almond Milk",
+    "img": "https://images.unsplash.com/photo-1528750997573-59b89d56f4f7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-15",
+    "cat": "healthy_drinks",
+    "name": "Unsweetened Organic Soy Milk",
+    "img": "https://images.unsplash.com/photo-1563636619-e9143da7973b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-16",
+    "cat": "healthy_drinks",
+    "name": "Unsweetened Warm Milk with Cardamom",
+    "img": "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-17",
+    "cat": "healthy_drinks",
+    "name": "Fresh Tomato Juice without Excessive Salt",
+    "img": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-18",
+    "cat": "healthy_drinks",
+    "name": "Banana and Milk Smoothie (Zero Added Sugar)",
+    "img": "https://images.unsplash.com/photo-1553530979-7ee52a2670c4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-19",
+    "cat": "healthy_drinks",
+    "name": "Homemade Wild Berry Fruit Smoothie",
+    "img": "https://images.unsplash.com/photo-1502741224143-90386d7f8c82?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-20",
+    "cat": "healthy_drinks",
+    "name": "Plain Cultured Probiotic Kefir",
+    "img": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "hd-21",
+    "cat": "healthy_drinks",
+    "name": "Cucumber and Mint Infused Detox Spa Water",
+    "img": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=601&q=80"
+  },
+  {
+    "id": "hd-22",
+    "cat": "healthy_drinks",
+    "name": "Fresh Carrot and Ginger Cold-Pressed Tonic",
+    "img": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=601&q=80"
+  }
+]
